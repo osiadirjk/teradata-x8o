@@ -1,0 +1,1 @@
+# teradata-x8o
